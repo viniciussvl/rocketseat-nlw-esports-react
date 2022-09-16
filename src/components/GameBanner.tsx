@@ -1,7 +1,7 @@
 interface GameBannerProps {
-    bannerUrl: string;
-    title: string;
-    adsCount: number;
+  bannerUrl: string;
+  title: string;
+  adsCount: number;
 }
 
 export function GameBanner(props: GameBannerProps) {
